@@ -1,0 +1,12 @@
+{
+  "algorithms": ["br", "gz"],
+  "filetypes": [
+    ".js",
+	".jsx",
+	".mjs",
+	".mts",
+	".tx",
+	".tsx"],
+  "directory": "/build",
+  "retainUncompressedFiles": true
+}
